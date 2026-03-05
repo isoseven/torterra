@@ -9,4 +9,6 @@
 > This knowledge base is a CONWIP, please expect unfinished notes and errors. Thanks!
 
 ## Classes:
-[[notes/csc1302/csc1302-base\|CSC 1302; Principles of CS II]]
+[CSC 1302; Principles of CS II](csc1302-base)
+
+
