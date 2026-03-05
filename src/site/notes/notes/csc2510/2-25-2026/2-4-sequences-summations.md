@@ -1,0 +1,4 @@
+---
+{"dg-publish":true,"permalink":"/notes/csc2510/2-25-2026/2-4-sequences-summations/"}
+---
+
