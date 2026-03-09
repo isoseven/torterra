@@ -6,7 +6,7 @@
 - There is an **auxiliary text**. It's recommended to buy it
 	- **They Say I Say**
 - **Check iCollege** for announcements and assignments daily. 
-	- e-mail: [ potential: email ]
+	- e-mail: alamb@[ uni ]
 - Bring a **notebook** for in-class writing
 - There will be **peer reviewing** and etc. on your essays
 - **3 essays** worth 20% each, another final revision for 20%, last 20% is top hat and discussion boards.
@@ -43,7 +43,7 @@ also available on kortex
 - need a notebook for in-class writing
 - no texting/whatever during class
 - use mla format 
-- https://writingstudio.gsu.edu/ for extra help! (or 25 park place room 2420)
+- https://writingstudio.[ uni ]/ for extra help! (or 25 park place room 2420)
 
 - reading: (first 3 weeks)
 	- rabelais gargantua and pantagruel
