@@ -43,7 +43,7 @@ also available on kortex
 - need a notebook for in-class writing
 - no texting/whatever during class
 - use mla format 
-- https://writingstudio.gsu.edu/ for extra help! (or 25 park place room 2420)
+- https://writingstudio.gsu.edu/ for extra help! (or ::: hidden 25 park place room 2420 :::)
 
 - reading: (first 3 weeks)
 	- rabelais gargantua and pantagruel
