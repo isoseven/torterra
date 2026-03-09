@@ -6,7 +6,7 @@
 - There is an **auxiliary text**. It's recommended to buy it
 	- **They Say I Say**
 - **Check iCollege** for announcements and assignments daily. 
-	- e-mail: alamb@gsu.edu
+	- e-mail: [ potential: email ]
 - Bring a **notebook** for in-class writing
 - There will be **peer reviewing** and etc. on your essays
 - **3 essays** worth 20% each, another final revision for 20%, last 20% is top hat and discussion boards.
