@@ -63,12 +63,12 @@
 	- to prove that a statement of the form $\forall x\,P(x)$ is **FALSE**, it suffices to find a value of $x$ **in the u.d.** such that $P(x)$ is **FALSE**.
 - example
 	- let $P(x)$ be the predicate "$x$ is full."
-	- let the u.d. of $x$ be *parking spaces at GSU*.
+	- let the u.d. of $x$ be *parking spaces at [ uni ]*.
 	- the **universal quantification** of $P(x),\,\forall x\,P(x)$, is the proposition:
-		- "All parking spaces at GSU are full."
-		- "Every parking space at GSU is full."
-		- "For each parking space at GSU, that space is full."
-	- this would be **false** if you find a parking space at GSU that is **empty**.
+		- "All parking spaces at [ uni ] are full."
+		- "Every parking space at [ uni ] is full."
+		- "For each parking space at [ uni ], that space is full."
+	- this would be **false** if you find a parking space at [ uni ] that is **empty**.
 ### $\exists$
  - $\exists$ is the EXISTS or **existential quantifier**.
 - $\exists x\,P(x)$ means **there exists an $x$** in the u.d. such that $P(x)$ is true.
@@ -78,11 +78,11 @@
 		- this statement is false because there is no positive integer that satisfies $x+1 < x$.
 - example
 	- let $P(x)$ be the predicate "$x$ is full."
-	-  let the u.d. of $x$ be *parking spaces at GSU*.
+	-  let the u.d. of $x$ be *parking spaces at [ uni ]*.
 	- the **existential quantification** of $P(x),\,\exists x\,P(x)$, is the proposition:
-		- "Some parking spaces at GSU are full."
-		- "There is a parking space at GSU that is full."
-		- At least one parking space at GSU is full.
+		- "Some parking spaces at [ uni ] are full."
+		- "There is a parking space at [ uni ] that is full."
+		- At least one parking space at [ uni ] is full.
 ### Equivalence Laws (for quantifiers)
 - **DeMorgan's Law**
 	- $\forall x\,P(x) \Leftrightarrow P(a) \land P(b) \land P(c) \land \ldots$
