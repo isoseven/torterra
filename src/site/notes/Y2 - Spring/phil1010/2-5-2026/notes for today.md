@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/y2-spring/phil1010/2-5-2026/notes-for-today/","dg-note-properties":{}}
+---
+
+- [x] #task thinkarguments lesson 4 📅 2026-02-06 ✅ 2026-02-09
+- [ ] #task sway practice assignment 📅 2026-02-10
+
