@@ -9,8 +9,8 @@
 > This knowledge base is a CONWIP, please expect unfinished notes and errors. Thanks!
 
 ## Classes:
-[[Y3 - Fall/csc 3320 (sys level prog)/csc3320-home\|CSC 3320;]]
-[[Y3 - Fall/math 3020 (stats for cs)/math3020-home\|MATH 3020;]]
+[[Y3 - Fall/SYS LVL PROG/csc3320-home\|CSC 3320;]]
+[[Y3 - Fall/STATS FOR CS/_draft/math3020-home\|MATH 3020;]]
 
 
 
