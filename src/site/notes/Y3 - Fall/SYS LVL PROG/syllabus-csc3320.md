@@ -10,7 +10,7 @@
 - required books: King's *C Programming: A Modern Approach*; Glass & Ables' *Unix for Programmers and Users*
 - coursework happens on **snowball** (`ssh [ potential: email ].[ uni ].edu`) — snowball gets wiped every semester
 
-## logistics
+## Logistics
 - syllabus is posted on the [class webpage](https://hallertau.cs.[ uni ].edu/~mweeks/csc3320/index.html)
 - office hours: **room 754, 25 Park Place**
 - responsibilities:
@@ -18,7 +18,7 @@
 	- read the book
 	- don't post course materials without the rights to do so
 
-## grading breakdown
+## Grading Breakdown
 | component | weight |
 | --- | --- |
 | 2 tests | 30% |
@@ -32,17 +32,26 @@
 > [!warning]
 > Final exam: **Wednesday, December 9, 2026, 16:15–18:45** — might change, double check closer to the date.
 
-## what will be learned
-- **ssh** and **sftp** to connect to and transfer files with remote machines
-- using a **Unix/Linux** machine via shell commands
-- **C programming**
-- **pipe**, **fork**, **exec**, and other process mechanisms
-- using **structs** to access directory and process data
+## What Will Be Learned
+Quick preview of what each of these actually means — the course will cover them properly, but a one-line anchor helps going in:
 
-## required books
+| topic | quick description |
+| --- | --- |
+| **ssh** (Secure Shell) | a protocol for securely logging into and running commands on a remote machine |
+| **sftp** (SSH File Transfer Protocol) | transfers files between machines securely, built on top of SSH |
+| **Unix/Linux shell** | typing commands directly to the OS instead of using a graphical interface |
+| **C programming** | a low-level, compiled language that gives direct control over memory |
+| **pipe** | connects one process's output directly to another process's input |
+| **fork** | a system call that creates a new process by duplicating the current one |
+| **exec** | a system call that replaces a process's running program with a different one |
+| **struct** | a C construct that groups several related variables together under one name |
+
+## Required Books
 - King, *C Programming: A Modern Approach*
 - Glass and Ables, *Unix for Programmers and Users*
 
-## working environment
+## Working Environment
 - use **snowball**: `ssh [ potential: email ].[ uni ].edu`
 - snowball gets wiped at the end of each semester — don't leave anything important there
+
+➡ *next: [[Y3 - Fall/SYS LVL PROG/unix-shell-and-utilities\|unix-shell-and-utilities]]*

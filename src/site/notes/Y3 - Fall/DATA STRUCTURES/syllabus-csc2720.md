@@ -12,7 +12,7 @@
 - **python scripts must be zipped** before emailing — raw `.py` attachments get blocked
 - the "tentative course contents" list wasn't filled in yet in this note
 
-## course info
+## Course Info
 - CRN: **86235**, section **008**
 - textbook: free online version available (not mandatory, but recommended)
 
@@ -21,7 +21,7 @@
 - Parsh Jadon
 - Ajay Varada
 
-## grading distribution
+## Grading Distribution
 | component | weight | notes |
 | --- | --- | --- |
 | midterm exam | 20% | Oct 13, 2:15–3:30 |
@@ -35,17 +35,17 @@
 > [!tip]
 > **Handwritten notes (both sides)** are allowed on exams.
 
-## deadlines and late policy
+## Deadlines and Late Policy
 - regular assignment due dates are 1 week from the start date
 - late policy: **0.4 points per hour** late
 
-## contacting the TA/professor
+## Contacting the TA/Professor
 - for lab questions, note the **CRN and section number**
 - email format: `[ACS54] [Sec#] <your concern(s)>`
 - send to **sislam9@[ uni ].edu**, using your [ uni ] student email account
 - **python scripts**: send as a compressed **zip file**, not `.py` — raw `.py` files get blocked by email filters
 
-## tentative course contents
+## Tentative Course Contents
 > [!note]
 > Not written down yet in this note — fill in once the syllabus/schedule covers it.
 

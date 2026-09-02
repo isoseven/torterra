@@ -11,20 +11,20 @@
 - **grading policy**: infinite attempts on homework, 1 attempt on quizzes
 - expectations: comfortable with integrals (e.g. $\int_0^1 xe^x\,dx$) and basic calculus/linear algebra going in
 
-## why this class matters
+## Why This Class Matters
 - you can't do CS without math — **all code is mathematically inclined**
 	- in fact, every data structure is math
 - course is built into two parts:
 	- **probability** = chapters 2, 3, 4
 	- **statistics** = everything else
 
-## logistics
+## Logistics
 - attendance is **QR-code based**
 - everything is recorded, but it's still important to take notes
 - required textbook: *Probability and Statistics for Computer Scientists*, 3rd edition, Michael Baron, Chapman and Hall/CRC Press, 2019
-- best contact: vmiller@[ uni ].edu
+- best contact: **vmiller@[ uni ].edu**
 
-## course learning outcomes
+## Course Learning Outcomes
 - apply probability laws to concrete problems
 - display and interpret data
 - perform statistical inference and interpret it in an applied context
@@ -32,7 +32,7 @@
 - use a computer to simulate probability and statistics
 - communicate probability/statistics concepts using correct technical language
 
-## expectations going in
+## Expectations Going In
 - be able to integrate, e.g. $\int_{0}^{1}{xe^x\,dx}$
 - brush up on calculus a bit
 - bring a notebook
