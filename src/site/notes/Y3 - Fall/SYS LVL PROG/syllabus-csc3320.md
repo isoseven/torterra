@@ -3,15 +3,15 @@
 ---
 
 # 🐧 TLDR
-- **CSC 3320** = Systems-Level Programming; full syllabus lives on the [class webpage](https://hallertau.cs.[ uni ].edu/~mweeks/csc3320/index.html)
+- **CSC 3320** = Systems-Level Programming; full syllabus lives on the [class webpage](https://hallertau.cs.gsu.edu/~mweeks/csc3320/index.html)
 - course covers: **ssh/sftp** for remote file transfer, **Unix/Linux shell** commands, **C programming**, **pipe/fork/exec** and other process mechanisms, and using **structs** to access directory and process data
 - grading: 2 tests = 30%, ~5 assignments = 15%, ~14 labs = 25%, participation = 10%, final = 20% (pop quizzes may fold into test grades — unconfirmed)
 - **final exam**: Wednesday, December 9, 2026, 16:15–18:45 (subject to change)
 - required books: King's *C Programming: A Modern Approach*; Glass & Ables' *Unix for Programmers and Users*
-- coursework happens on **snowball** (`ssh [ potential: email ].[ uni ].edu`) — snowball gets wiped every semester
+- coursework happens on **snowball** (`ssh schae6@snowball.cs.gsu.edu`) — snowball gets wiped every semester
 
 ## Logistics
-- syllabus is posted on the [class webpage](https://hallertau.cs.[ uni ].edu/~mweeks/csc3320/index.html)
+- syllabus is posted on the [class webpage](https://hallertau.cs.gsu.edu/~mweeks/csc3320/index.html)
 - office hours: **room 754, 25 Park Place**
 - responsibilities:
 	- attend class
@@ -51,7 +51,7 @@ Quick preview of what each of these actually means — the course will cover the
 - Glass and Ables, *Unix for Programmers and Users*
 
 ## Working Environment
-- use **snowball**: `ssh [ potential: email ].[ uni ].edu`
+- use **snowball**: `ssh schae6@snowball.cs.gsu.edu`
 - snowball gets wiped at the end of each semester — don't leave anything important there
 
 ➡ *next: [[Y3 - Fall/SYS LVL PROG/unix-shell-and-utilities\|unix-shell-and-utilities]]*

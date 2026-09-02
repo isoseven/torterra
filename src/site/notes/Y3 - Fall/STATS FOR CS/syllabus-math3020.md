@@ -6,7 +6,7 @@
 - **MATH 3020** = Probability and Statistics for Computer Scientists
 	- course splits into two parts: **probability** (chapters 2–4) and **statistics** (everything after)
 	- required textbook: *Probability and Statistics for Computer Scientists*, 3rd ed., Michael Baron (CRC Press, 2019)
-	- best contact: **vmiller@[ uni ].edu**
+	- best contact: **vmiller@gsu.edu**
 - **attendance** is QR-code based; lectures are recorded, but taking notes still matters
 - **grading policy**: infinite attempts on homework, 1 attempt on quizzes
 - expectations: comfortable with integrals (e.g. $\int_0^1 xe^x\,dx$) and basic calculus/linear algebra going in
@@ -22,7 +22,7 @@
 - attendance is **QR-code based**
 - everything is recorded, but it's still important to take notes
 - required textbook: *Probability and Statistics for Computer Scientists*, 3rd edition, Michael Baron, Chapman and Hall/CRC Press, 2019
-- best contact: **vmiller@[ uni ].edu**
+- best contact: **vmiller@gsu.edu**
 
 ## Course Learning Outcomes
 - apply probability laws to concrete problems
