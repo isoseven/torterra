@@ -5,7 +5,7 @@
 # Hi!
 **It's Steven!** This is a public archive of my notes throughout the school years.
 
-> [!warning] Pardon our dust
+> [!warning] Disclaimer
 > This knowledge base is a CONWIP, please expect unfinished notes and errors. Thanks!
 
 ## Classes:
