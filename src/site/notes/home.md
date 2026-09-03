@@ -10,6 +10,11 @@
 
 ## Classes:
 ### Current
+[[Y3 - Fall/DATA STRUCTURES/csc2720-base\| CSC 2720: Data Structures]]
+[[Y3 - Fall/COMP ORG + PROG/csc3210-base\| CSC 3210: Computer Organization + Programming]]
+[[Y3 - Fall/SYS LVL PROG/csc3320-base\| CSC 3320: System Level Programming]]
+[[Y3 - Fall/STATS FOR CS/math3020-base\| MATH 3020: Statistics for Comp Sci]]
+(history that i havent really taken notes for yet.)
 
 ### (Spring, Y2)
 [[Y2 - Spring/csc1302/csc1302-base\|CSC 1302: Principles of CS II]]
