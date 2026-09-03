@@ -14,7 +14,7 @@
 [[csc3210-base \| CSC 3210: Computer Organization + Programming]]
 [[csc3320-base \| CSC 3320: System Level Programming]]
 [[math3020-base \| MATH 3020: Statistics for Comp Sci]]
-
+(history that i havent really taken notes for yet.)
 ### (Spring, Y2)
 [[Y2 - Spring/csc1302/csc1302-base\|CSC 1302: Principles of CS II]]
 [[Y2 - Spring/csc2510/csc2510-base\|CSC 2510: Theoretical Foundations of CS]]
